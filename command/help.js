@@ -37,7 +37,9 @@ ${mundur}
  • Balance : ${toCommas(getBalance(sender, balance))}
  • Role : ${role}
  
- 
+ *MENFESS*${petik}
+• ${prefix}menfess rahasia|62xxx|pesan
+
 *MAIN MENU*${petik}
  • ${prefix}menu
  • ${prefix}infobot
@@ -71,7 +73,6 @@ ${mundur}
  • ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
-• ${prefix}menfess rahasia|62xxx|pesan
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
