@@ -1,9 +1,9 @@
 {
     "ownerNumber": ["628979440862@s.whatsapp.net","628979440862@s.whatsapp.net"],
-    "ownerName": "᭄ 𝙕𝙮𝙠𝙪𝙖𝙣",
+    "ownerName": " 𝙕𝙮𝙠𝙪𝙖𝙣",
     "instagram" : "https://instagram.com/zykuan.144p",
     "botName": "𝘼𝙢𝙖𝙠𝙖𝙬𝙖 𝙕𝙔",
-    "footer": "𝘼𝙢𝙖𝙠𝙖𝙬𝙖 𝙕𝙔 |",
+    "footer": "𝘼𝙢𝙖𝙠𝙖𝙬𝙖 𝙕𝙔 | Copyright ©2022",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "BotKey": "ktBHkpUv",
@@ -14,7 +14,7 @@
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
-    "gamewaktu": 90,
+    "gamewaktu": 60,
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
