@@ -38,7 +38,7 @@ ${mundur}
  • Role : ${role}
  
 ╔═══════════════╗
-╠══✘ *MENFESS* ✘═══┇
+╠══✘ *MENFESS* ✘═══┨
 ╠═══════════════╩═════════╗
 ╠ • ${prefix}menfess secret|62xxx|pesan
 ╚═════════════════════════╝
@@ -49,7 +49,7 @@ ${mundur}
 ╠ MELANGGAR ? BUKAN TANGGUNG JAWAB BOT
 ╚══════════════════════════════╝
 ╔═════════════════╗
-╠══✘ *MAIN MENU* ✘═══┇
+╠══✘ *MAIN MENU* ✘═══┨
 ╠═════════════════╩═══════╗
 ╠ • ${prefix}menu
 ╠ • ${prefix}infobot
@@ -66,7 +66,7 @@ ${mundur}
 ╠ • ${prefix}listbahasa
 ╚══════════════════════════╝
 ╔═══════════════════════╗
-╠══✘ *CONVERTER/TOOLS* ✘═══┇
+╠══✘ *CONVERTER/TOOLS* ✘═══┨
 ╠═══════════════════════╩══╗
 ╠ • ${prefix}sticker
 ╠ • ${prefix}stickerwm
@@ -85,7 +85,7 @@ ${mundur}
 ╠ • ${prefix}translate 
 ╚══════════════════════════╝
 ╔═══════════════════════╗
-╠══✘ *ANONYMOUS CHATS* ✘═══┇
+╠══✘ *ANONYMOUS CHATS* ✘═══┨
 ╠═══════════════════════╩══╗
 ╠ • ${prefix}anonymous
 ╠ • ${prefix}start
@@ -94,7 +94,7 @@ ${mundur}
 ╠ • ${prefix}sendprofile
 ╚══════════════════════════╝
 ╔══════════════════╗
-╠═══✘ *STORE MENU* ✘═══┇
+╠═══✘ *STORE MENU* ✘═══┨
 ╠══════════════════╩══════╗
 ╠ • ${prefix}list
 ╠ • ${prefix}addlist
