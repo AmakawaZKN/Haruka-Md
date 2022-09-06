@@ -38,16 +38,18 @@ ${mundur}
  • Role : ${role}
  
 ╔═══════════════╗
-╠══✘ *MENFESS* ✘══┇
+╠═══✘ *MENFESS* ✘═══┇
 ╠═══════════════╩═════════╗
 ╠ • ${prefix}menfess secret|62xxx|pesan
 ╚═════════════════════════╝
 ╔══════════════════════════════╗
-╠ NOTE : GUNAKAN DENGAN BIJAK, JANGAN 
-╠ UNTUK HAL KERIBUTAN
+╠ NOTE : 
+╠ GUNAKAN DENGAN BIJAK !
+╠ JANGAN UNTUK HAL KERIBUTAN
+╠ MELANGGAR ? BUKAN TANGGUNG JAWAB BOT
 ╚══════════════════════════════╝
 ╔═════════════════╗
-╠══✘ *MAIN MENU* ✘══┇
+╠═══✘ *MAIN MENU* ✘═══┇
 ╠═════════════════╩═══════╗
 ╠ • ${prefix}menu
 ╠ • ${prefix}infobot
@@ -64,7 +66,7 @@ ${mundur}
 ╠ • ${prefix}listbahasa
 ╚══════════════════════════╝
 ╔═══════════════════════╗
-╠══✘ *CONVERTER/TOOLS* ✘══┇
+╠═══✘ *CONVERTER/TOOLS* ✘═══┇
 ╠═══════════════════════╩══╗
 ╠ • ${prefix}sticker
 ╠ • ${prefix}stickerwm
@@ -83,7 +85,7 @@ ${mundur}
 ╠ • ${prefix}translate 
 ╚══════════════════════════╝
 ╔═══════════════════════╗
-╠══✘ *ANONYMOUS CHATS* ✘══┇
+╠═══✘ *ANONYMOUS CHATS* ✘═══┇
 ╠═══════════════════════╩══╗
 ╠ • ${prefix}anonymous
 ╠ • ${prefix}start
@@ -92,7 +94,7 @@ ${mundur}
 ╠ • ${prefix}sendprofile
 ╚══════════════════════════╝
 ╔══════════════════╗
-╠══✘ *STORE MENU* ✘══┇
+╠═══✘ *STORE MENU* ✘═══┇
 ╠══════════════════╩══════╗
 ╠ • ${prefix}list
 ╠ • ${prefix}addlist
@@ -113,7 +115,7 @@ ${mundur}
 ╠ • done < reply chat >
 ╚═════════════════════════╝
 ╔═════════════════╗
-╠ ✘ *RPG GAMES* ✘
+╠═══✘ *RPG GAMES* ✘═══┇
 ╠═════════════════╩═════════╗
 ╠ • ${prefix}inventory
 ╠ • ${prefix}mining
@@ -147,7 +149,7 @@ ${mundur}
 ╚════════════════════════════╝
 
 ╔══════════════════════╗
-╠ ✘ *DOWNLOADS MENU* ✘
+╠═══✘ *DOWNLOADS MENU* ✘═══┇
 ╠══════════════════════╩════╗
 ╠ • ${prefix}play
 ╠ • ${prefix}ytmp3
@@ -165,7 +167,7 @@ ${mundur}
 ╠ • ${prefix}gitclone
 ╚═══════════════════════════╝
 ╔══════════════════╗
-╠ ✘ *GROUP MENU* ✘
+╠═══✘ *GROUP MENU* ✘═══┇
 ╠══════════════════╩═════════╗
 ╠ • ${prefix}afk
 ╠ • ${prefix}welcome
@@ -199,7 +201,7 @@ ${mundur}
 ╠ • ${prefix}checksewa
 ╚════════════════════════════╝
 ╔═════════════════╗
-╠ ✘ *GAME MENU* ✘
+╠═══✘ *GAME MENU* ✘═══┇
 ╠═════════════════╩═════╗
 ╠ • ${prefix}tictactoe
 ╠ • ${prefix}delttt
@@ -207,7 +209,7 @@ ${mundur}
 ╠ • ${prefix}delcasino
 ╚═══════════════════════╝
 ╔═══════════════════╗
-╠ ✘ *SEARCH MENU* ✘
+╠═══✘ *SEARCH MENU* ✘═══┇
 ╠═══════════════════╩═══════╗
 ╠ • ${prefix}lirik
 ╠ • ${prefix}grupwa
@@ -216,7 +218,7 @@ ${mundur}
 ╠ • ${prefix}searchbyimage
 ╚═══════════════════════════╝
 ╔════════════════╗
-✘ *RANDOM MENU* ✘
+✘═══*RANDOM MENU* ✘═══┇
 ╠════════════════╩════╗
 ╠ • ${prefix}cecan
 ╠ • ${prefix}cogan
@@ -224,7 +226,7 @@ ${mundur}
 ╠ • ${prefix}waifu
 ╚═════════════════════╝
 ╔════════════════════╗
-╠ ✘ *BALANCE MENU* ✘
+╠═══✘ *BALANCE MENU* ✘═══┇
 ╠════════════════════╩═════╗
 ╠ • ${prefix}topglobal
 ╠ • ${prefix}toplocal
@@ -235,7 +237,7 @@ ${mundur}
 ╠ • ${prefix}balance
 ╚══════════════════════════╝
 ╔═══════════════╗
-╠ ✘ *STORAGE* ✘
+╠═══✘ *STORAGE* ✘═══┇
 ╠═══════════════╩══════╗
 ╠ • ${prefix}addstik
 ╠ • ${prefix}addvn
@@ -247,7 +249,7 @@ ${mundur}
 ╠ • ${prefix}listvid
 ╚══════════════════════╝
 ╔═══════════════╗
-╠ ✘ *BAILEYS* ✘
+╠═══✘ *BAILEYS* ✘═══┇
 ╠═══════════════╩═══════════╗
 ╠ • ${prefix}fitnah
 ╠ • ${prefix}nowa
@@ -258,7 +260,7 @@ ${mundur}
 ╠ • ${prefix}delcmd
 ╚═══════════════════════════╝
 ╔═══════════════════╗
-╠ ✘ *OWNERS MENU* ✘
+╠═══✘ *OWNERS MENU* ✘═══┇
 ╠═══════════════════╩══════╗
 ╠ • ${prefix}autoread
 ╠ • ${prefix}autobio
