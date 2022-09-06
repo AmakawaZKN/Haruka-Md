@@ -15,7 +15,7 @@ function toCommas(x) {
 exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isCreator, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
     return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
-☁ Hitung Mundur Tahun Baru ☁
+🎁🎊Hitung Mundur Tahun Baru🎊🎁
 ${mundur}
 
 ☢ *STATISTICS* ☢
@@ -29,7 +29,7 @@ ${mundur}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
 
-✿ *USER INFO* ✿
+🌸 *USER INFO* 🌸
  • Name : ${pushname !== undefined ? pushname : '-'}
  • Status : ${isCreator ? 'Owner' : isPremium ? 'Premium' : 'Free'}
  • Limit : ${isCreator ? 'Unlimited' : isPremium ? 'Unlimited' : getLimit(sender, limitCount, limit)}
@@ -42,9 +42,9 @@ ${mundur}
 ╠════════════╩════════════╗
 ╠ • ${prefix}menfess secret|62xxx|pesan
 ╚═════════════════════════╝
-╔══════════════════════════════════╗
+╔══════════════════════════════╗
 ╠ NOTE : GUNAKAN DENGAN BIJAK, JANGAN UNTUK HAL KERIBUTAN
-╚══════════════════════════════════╝
+╚══════════════════════════════╝
 ╔══════════════╗
 ✘ *MAIN MENU* ✘
 ╠══════════════╩══════════╗
@@ -113,7 +113,7 @@ ${mundur}
 ╚═════════════════════════╝
 ╔══════════════╗
 ✘ *RPG GAMES* ✘
-╠═══════════════╩════════════╗
+╠══════════════╩════════════╗
 ╠ • ${prefix}inventory
 ╠ • ${prefix}mining
 ╠ • ${prefix}buy 
